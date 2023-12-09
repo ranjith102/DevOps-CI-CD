@@ -9,6 +9,8 @@ Enable all the ports
 
 Login Jenkins
 
+sudo hostnamectl set-hostname jenkins
+/bin/bash
 sudo apt update -y
 sudo apt install openjdk-11-jre -y
 sudo wget -O /usr/share/keyrings/jenkins-keyring.asc \
@@ -31,4 +33,10 @@ Build trigger --> Github hook
 Github --> Webhook --> Url/github-webhook/
 send everything
 Build now
+
+
+SonarQube
+sudo hostnamectl set-hostname sonarqube
+/bin/bash
+sudo apt update -y
 
