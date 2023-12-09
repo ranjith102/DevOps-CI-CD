@@ -7,3 +7,4 @@ Create 3 EC2 Instances
 Jenkins | Docker | SonarQube t2 Medium
 Enable all the ports
 
+Login 
