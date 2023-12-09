@@ -8,3 +8,6 @@ Jenkins | Docker | SonarQube t2 Medium
 Enable all the ports
 
 Login Jenkins
+
+sudo apt update -y
+sudo apt install openjdk-11-jre -y
