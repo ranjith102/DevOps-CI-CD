@@ -28,3 +28,7 @@ New- Item --> Automated-Pipeline --> Free style
 
 source code management --> Paste the Url Main
 Build trigger --> Github hook
+Github --> Webhook --> Url/github-webhook/
+send everything
+
+
