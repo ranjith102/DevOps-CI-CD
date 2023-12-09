@@ -22,3 +22,5 @@ sudo apt-get install jenkins
 sudo systemctl enable jenkins
 sudo systemctl start jenkins
 sudo systemctl status jenkins
+
+Login to the Jenkins via Browser
