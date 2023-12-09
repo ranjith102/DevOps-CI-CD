@@ -26,4 +26,5 @@ sudo systemctl status jenkins
 Login to the Jenkins via Browser
 New- Item --> Automated-Pipeline --> Free style
 
-source code management -->
+source code management --> Paste the Url Main
+Build trigger --> Github hook
