@@ -46,3 +46,14 @@ unzip sonarqube
 cd /bin/linux/ ls
 ./sonar.sh
 ./sonar.sh console
+
+Goto sonarqube
+admin | admin 
+admin | admin123
+
+manually
+Onix-Website-Scan
+Onix-Website-Scan
+
+
+
