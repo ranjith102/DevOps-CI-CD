@@ -42,5 +42,7 @@ sudo apt update -y
 sudo apt install openjdk-17-jre -y
 wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-10.3.0.82913.zip
 sudo apt install unzip
+unzip sonarqube
+ls 
 
 
