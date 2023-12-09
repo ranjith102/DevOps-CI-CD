@@ -26,3 +26,4 @@ sudo systemctl status jenkins
 Login to the Jenkins via Browser
 New- Item --> Automated-Pipeline --> Free style
 
+source code management -->
