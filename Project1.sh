@@ -56,5 +56,15 @@ Onix-Website-Scan
 Onix-Website-Scan
 Jenkins --> Github
 
+My Account --> Security
+Token --> Sonarqube-Token
+Copy and paste
+
+Jenkins
+Plugins --> SonarQube Scanner, ssh2 easy, 
+manage/configureTools/ --> Sonarqube Scanner 
+Add Sonarqube scanner --> SonarScanner
+manage/configure -->  
+
 
 
