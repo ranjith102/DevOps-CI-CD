@@ -69,3 +69,6 @@ Analysis Properties: Token /Scan
 manage/Configure
 Server Authentication Token: Add- Jenkins | Secret Text | ID : Sonar-Token
 Select the Token
+
+Build Now
+ Goto SonarQube Check the status
