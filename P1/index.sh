@@ -39,3 +39,8 @@ sudo hostnamectl set-hostname sonarqube
 sudo apt update -y
 sudo apt install openjdk-11-jre -y
 sudo apt install unzip
+wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-10.3.0.82913.zip
+ls/bin/linux/ls
+./sonar.sh
+./sonar.sh console
+
