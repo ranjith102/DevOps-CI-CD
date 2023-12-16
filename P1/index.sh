@@ -24,9 +24,18 @@ sudo apt-get install jenkins
 sudo systemctl status jenkins
 
 Copy the IP and Login to the Jenkins
+
 New Item = Automated-Pipeline
 Free style Project
 Source code management= add git url | Main | Github hook trigger
 Goto Github repo = Webhook = url/github-webhook/
 Send everything
 Build Now
+
+
+SonarQube
+sudo hostnamectl set-hostname sonarqube
+/bin/bash
+sudo apt update -y
+sudo apt install openjdk-11-jre -y
+sudo apt install unzip
