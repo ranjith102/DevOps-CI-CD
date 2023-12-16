@@ -48,3 +48,7 @@ Copy the IP and paste url:9000
 admin admin = admin123
 Project Name: Onix-Website-Scan Same
 Setup
+with jenkins
+github
+Copy the Project Key: .scan
+My account: Token: Sonarqube-Token | Copy and Save
