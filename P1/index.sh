@@ -44,3 +44,7 @@ ls/bin/linux/ls
 ./sonar.sh
 ./sonar.sh console
 
+Copy the IP and paste url:9000
+admin admin = admin123
+Project Name: Onix-Website-Scan Same
+Setup
