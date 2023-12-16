@@ -96,3 +96,13 @@ passwd ubuntu
 J-> ssh ubuntu@DockerIP
 passwd
 Exit
+
+
+ssh-keygen
+ssh-copy-id ubuntu@DockerIp
+
+
+Go to Jenkins: 
+manage/configure | Server Group Center : Docker-Servers | UN: ubuntu | Password: *****
+
+Server List: SN: Docker-1| SP: DockerIP |
