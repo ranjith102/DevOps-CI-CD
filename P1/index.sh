@@ -81,3 +81,18 @@ sudo apt update -y
 sudo apt install docker.io -y
 sudo systemctl status docker
 sudo systemctl start docker
+
+docker ps
+
+
+sudo su jenkins
+
+D-> sudo su
+nano /etc/ssh/sshd_config
+Uncomment Public Authentication yes | PasswordAuthentication Yes
+systemctl restart sshd
+passwd ubuntu
+
+J-> ssh ubuntu@DockerIP
+passwd
+Exit
