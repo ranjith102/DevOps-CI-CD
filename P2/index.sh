@@ -42,3 +42,12 @@ wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-10.3.0.82
 ls/bin/linux/ls
 ./sonar.sh
 ./sonar.sh console
+
+Copy the IP and paste url:9000
+admin admin = admin123
+Project Name: Onix-Website-Scan Same
+Setup
+with jenkins
+github
+Copy the Project Key: .scan
+My account: Token: Sonarqube-Token | Copy and Save
