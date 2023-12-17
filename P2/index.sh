@@ -30,3 +30,4 @@ Free style Project
 Source code management= add git url | Main | Github hook trigger
 Goto Github repo = Webhook = url/github-webhook/
 Send everyth
+Build Now
