@@ -57,3 +57,9 @@ Manage Plugins | Available Plugins [ SonarQube Scanner, SSH2 Easy,  ]
 /manage/configureTools/
 SonarQube Scanner -- Add SonarQube Scanner -- SonarScanner
 Save
+Configure/
+SonarQube Servers -- Sonarqube Installation -- Sonar Server -- url:9000
+
+Automated-Pipeline/Configure
+Build Steps: Exexcute the SonarQube Scanner
+Analysis Properties: Token /Scan
