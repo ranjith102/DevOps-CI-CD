@@ -69,3 +69,13 @@ Select the Token
 
 Build Now
  Goto SonarQube Check the status
+
+ Docker
+sudo hostnamectl set-hostname docker
+/bin/bash
+sudo apt update -y
+sudo apt install docker.io -y
+sudo systemctl status docker
+sudo systemctl start docker
+
+docker ps
