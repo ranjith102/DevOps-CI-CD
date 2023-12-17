@@ -22,3 +22,11 @@ echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \
 sudo apt-get update
 sudo apt-get install jenkins
 sudo systemctl status jenkins
+
+Copy the IP and Login to the Jenkins
+
+New Item = Automated-Pipeline
+Free style Project
+Source code management= add git url | Main | Github hook trigger
+Goto Github repo = Webhook = url/github-webhook/
+Send everyth
